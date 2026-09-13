@@ -10,14 +10,14 @@ No IaC framework such as CloudFormation YAML, AWS CDK, or Terraform were created
 ## Technologies and tools used
 ### AWS services
 - Amazon EC2
-- Amazon RDS for MariaDB
+- Amazon RDS for MariaDB 10.11
 - Amazon S3
 - AWS Management console
 ### Server and application stack
-- Amazon Linux 2023
+- Amazon Linux 2023 (kernel-6.18)
 - Apache HTTP server
 - PHP and dependencies
-- MariaDB
+- MariaDB 10.5
 - WordPress
 ### Local tools
 - PuTTY: SSH access into the EC2 instance
